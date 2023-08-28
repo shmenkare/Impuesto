@@ -1,12 +1,10 @@
 Impuesto.csproj
 Impuesto.sln
-
 Impuesto.suo
-
 Properties/
-
 bin/
-
 obj/
+App.config
+.vs/
 
 
